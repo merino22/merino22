@@ -3,7 +3,7 @@
 - 🔭 I'm currently working on Laravel + VueJS + MySQL stack
 - 🌱 I'm currently learning more about ReactJS and Laravel
 - 👯 I’m looking to collaborate on any great projects
-- 🤔 I’m looking for help with life
+- 🤔 I’m looking for help with visa sponsorship jobs
 - 💬 Ask me about challenging coding exercises
 - 📫 How to reach me: merinoaaronhn22@gmail.com
 - ⚡ Fun fact: I like coding for fun
